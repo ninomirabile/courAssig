@@ -1,1 +1,25 @@
 
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+
+h1 {
+    font-size: 1.75em;
+}
+
+section {
+  background-color: #595959;
+
+  margin: 10px;
+  padding: 10;
+  color : white;
+}
+
+section h3 {
+    font-size: 1.25em;
+    color: #fd5632;
+}
+a{
+  color: #7dae31;
+}
